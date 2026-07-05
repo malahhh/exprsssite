@@ -1,0 +1,9 @@
+extends layout
+
+block content
+  h2 = title
+  each val, index in data
+    div
+      h2 
+        a(href=`/cat/${val.category}`)= val.category 
+      

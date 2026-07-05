@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Смартфон Nova X12",
+    "category": "electronics",
+    "url" : "urlsmart",
+    "description": "Смартфон с большим экраном, 128 ГБ памяти и быстрой зарядкой.",
+    "price": 34990,
+    "oldPrice": 39990,
+    "rating": 4.8,
+    "inStock": true,
+    "image": "https://dummyjson.com/image/500x500/6d5dfc/ffffff?text=Smartphone"
+  },
+  {
+    "id": 2,
+    "title": "Ноутбук AirBook Pro 14",
+    "category": "electronics",
+    "url" : "urlnotebook",
+    "description": "Легкий ноутбук для учебы, работы и программирования.",
+    "price": 89990,
+    "oldPrice": 99990,
+    "rating": 4.7,
+    "inStock": true,
+    "image": "https://dummyjson.com/image/500x500/111827/ffffff?text=Laptop"
+  },
+  {
+    "id": 3,
+    "title": "Беспроводные наушники SoundPods",
+    "category": "audio",
+    "url" : "urlpods",
+    "description": "Компактные наушники с шумоподавлением и кейсом для зарядки.",
+    "price": 7990,
+    "oldPrice": 9990,
+    "rating": 4.6,
+    "inStock": true,
+    "image": "https://dummyjson.com/image/500x500/22c55e/ffffff?text=Headphones"
+  },
+  {
+    "id": 4,
+    "title": "Умные часы FitWatch 5",
+    "category": "wearables",
+    "url" : "urlwear",
+    "description": "Часы для спорта, уведомлений, сна и контроля активности.",
+    "price": 12990,
+    "oldPrice": 15990,
+    "rating": 4.5,
+    "inStock": true,
+    "image": "https://dummyjson.com/image/500x500/f59e0b/ffffff?text=Smart+Watch"
+  },
+  {
+    "id": 5,
+    "title": "Игровая мышь CyberMouse RGB",
+    "category": "accessories",
+    "url" : "urlaccessmouse",
+    "description": "Проводная игровая мышь с подсветкой и быстрым сенсором.",
+    "price": 2990,
+    "oldPrice": 3990,
+    "rating": 4.4,
+    "inStock": true,
+    "image": "https://dummyjson.com/image/500x500/ef4444/ffffff?text=Gaming+Mouse"
+  },
+  {
+    "id": 6,
+    "title": "Механическая клавиатура KeyMaster",
+    "category": "accessories",
+    "url" : "urlaccessclava",
+    "description": "Клавиатура с механическими переключателями и подсветкой.",
+    "price": 6490,
+    "oldPrice": 7990,
+    "rating": 4.7,
+    "inStock": true,
+    "image": "https://dummyjson.com/image/500x500/8b5cf6/ffffff?text=Keyboard"
+  },
+  {
+    "id": 7,
+    "title": "Монитор Vision 27",
+    "url" : "urlmonitor",
+    "category": "electronics",
+    "description": "27-дюймовый монитор для работы, учебы и игр.",
+    "price": 21990,
+    "oldPrice": 24990,
+    "rating": 4.6,
+    "inStock": false,
+    "image": "https://dummyjson.com/image/500x500/0ea5e9/ffffff?text=Monitor"
+  },
+  {
+    "id": 8,
+    "title": "Рюкзак Urban Pack",
+    "category": "bags",
+    "url" : "urlbaggs",
+    "description": "Городской рюкзак с отделением для ноутбука и аксессуаров.",
+    "price": 4490,
+    "oldPrice": 5990,
+    "rating": 4.3,
+    "inStock": true,
+    "image": "https://dummyjson.com/image/500x500/334155/ffffff?text=Backpack"
+  },
+  {
+    "id": 9,
+    "title": "Настольная лампа LightDesk",
+    "url" : "urllampp",
+    "category": "home",
+    "description": "Светодиодная лампа с регулировкой яркости и теплоты света.",
+    "price": 3590,
+    "oldPrice": 4590,
+    "rating": 4.5,
+    "inStock": true,
+    "image": "https://dummyjson.com/image/500x500/14b8a6/ffffff?text=Desk+Lamp"
+  },
+  {
+    "id": 10,
+    "title": "Кофемашина Barista Mini",
+    "url" : "urlcofee",
+    "category": "home",
+    "description": "Компактная кофемашина для эспрессо, капучино и латте.",
+    "price": 27990,
+    "oldPrice": 32990,
+    "rating": 4.8,
+    "inStock": true,
+    "image": "https://dummyjson.com/image/500x500/92400e/ffffff?text=Coffee+Machine"
+  }
+]

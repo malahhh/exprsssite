@@ -1,0 +1,10 @@
+extends layout
+
+block content
+  h1 = `Открыта категория: ${category}`
+   each val, index in data
+    div
+      h2
+        a(href=`/cat/${val.url}`)= val.title 
+      
+
